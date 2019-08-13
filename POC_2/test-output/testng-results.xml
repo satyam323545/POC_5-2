@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28064" started-at="2019-08-13T17:08:54Z" finished-at="2019-08-13T17:09:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="28064" started-at="2019-08-13T17:08:54Z" finished-at="2019-08-13T17:09:22Z">
+      <class name="testNG_tests.Profile_page_actions">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:testNG_tests.Profile_page_actions@4d9e68d0]" name="launchbrowser" is-config="true" duration-ms="11130" started-at="2019-08-13T17:08:54Z" finished-at="2019-08-13T17:09:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="login_text_verify()[pri:1, instance:testNG_tests.Profile_page_actions@1d9b7cce]" name="login_text_verify" duration-ms="122" started-at="2019-08-13T17:09:05Z" finished-at="2019-08-13T17:09:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_text_verify -->
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:testNG_tests.Profile_page_actions@4d9e68d0]" name="launchbrowser" is-config="true" duration-ms="11231" started-at="2019-08-13T17:09:06Z" finished-at="2019-08-13T17:09:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="login_text_verify()[pri:1, instance:testNG_tests.Profile_page_actions@4d9e68d0]" name="login_text_verify" duration-ms="106" started-at="2019-08-13T17:09:17Z" finished-at="2019-08-13T17:09:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_text_verify -->
+        <test-method status="PASS" signature="register_text_verify()[pri:2, instance:testNG_tests.Profile_page_actions@1d9b7cce]" name="register_text_verify" duration-ms="101" started-at="2019-08-13T17:09:17Z" finished-at="2019-08-13T17:09:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register_text_verify -->
+        <test-method status="PASS" signature="register_text_verify()[pri:2, instance:testNG_tests.Profile_page_actions@4d9e68d0]" name="register_text_verify" duration-ms="93" started-at="2019-08-13T17:09:17Z" finished-at="2019-08-13T17:09:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register_text_verify -->
+        <test-method status="PASS" signature="go_to_login()[pri:3, instance:testNG_tests.Profile_page_actions@1d9b7cce]" name="go_to_login" duration-ms="809" started-at="2019-08-13T17:09:17Z" finished-at="2019-08-13T17:09:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- go_to_login -->
+        <test-method status="PASS" signature="go_to_login()[pri:3, instance:testNG_tests.Profile_page_actions@4d9e68d0]" name="go_to_login" duration-ms="939" started-at="2019-08-13T17:09:18Z" finished-at="2019-08-13T17:09:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- go_to_login -->
+        <test-method status="PASS" signature="do_login()[pri:45, instance:testNG_tests.Profile_page_actions@1d9b7cce]" name="do_login" duration-ms="1782" started-at="2019-08-13T17:09:19Z" finished-at="2019-08-13T17:09:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- do_login -->
+        <test-method status="PASS" signature="do_login()[pri:45, instance:testNG_tests.Profile_page_actions@4d9e68d0]" name="do_login" duration-ms="1695" started-at="2019-08-13T17:09:21Z" finished-at="2019-08-13T17:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- do_login -->
+      </class> <!-- testNG_tests.Profile_page_actions -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
